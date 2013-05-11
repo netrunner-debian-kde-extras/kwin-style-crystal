@@ -1,0 +1,69 @@
+kwin-style-crystal (2.0.5-2) unstable; urgency=low
+
+  * Switch to source format "3.0 (quilt)".
+  * Bump Standards-Version to 3.9.1, no changes required.
+  * Improve description and fix typos in it. (Closes: #602427)
+  * Update packaging copyright.
+
+ -- Pino Toscano <pino@kde.org>  Tue, 15 Mar 2011 12:32:59 +0100
+
+kwin-style-crystal (2.0.5-1) unstable; urgency=low
+
+  * New upstream release.
+  * Add the cmake build dependency, as it is no more provided by kdelibs5-dev.
+    (Closes: #581279)
+  * Convert to dh7:
+    - bump debhelper build dependency to >= 7.3.16
+    - bump pkg-kde-tools build dependency to >= 0.5
+    - remove cdbs build dependency
+    - add AUTHORS to the docs file
+    - specify a custom build directory to avoid clashing with the existing
+      'build' directory in the sources
+  * Remove quilt build dependency, no more useful.
+  * Bump Standards-Version to 3.8.4, no changes required.
+  * Set the source format to 1.0, for now.
+  * Update copyright.
+  * Add "DM-Upload-Allowed: yes" to source section of control.
+
+ -- Pino Toscano <pino@kde.org>  Wed, 12 May 2010 19:58:34 +0200
+
+kwin-style-crystal (2.0.3-1) unstable; urgency=low
+
+  * New upstream release, aimed for KDE 4. (Closes: #522569)
+    - Update dependencies to KDE 4.
+    - Switch rules to pkg-kde-tools + CDBS.
+  * Set the kde-extras team as maintainer, putting Hai Zaar and myself as
+    uploaders.
+  * Update copyright, adopt the DEP 5 (r48).
+  * Bump compat to 7.
+  * Bump Standards-Version to 3.8.1, no changes required.
+  * Remove dirs file, unneeded.
+  * Add Homepage field in control.
+  * Remove old conflict with 'crystal' package, not even present in Etch.
+
+ -- Pino Toscano <pino@kde.org>  Mon, 13 Apr 2009 16:10:20 +0200
+
+kwin-style-crystal (1.0.6-1) unstable; urgency=low
+
+  * New upstream release
+  * Updated linker flags to link only necessary libraries
+
+ -- Hai Zaar <haizaar@haizaar.com>  Wed,  9 Jul 2008 12:08:31 +0300
+
+kwin-style-crystal (1.0.2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Sune Vuorela <debian@pusling.com>  Thu, 12 Oct 2006 09:56:35 +0200
+
+kwin-style-crystal (1.0.1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Sune Vuorela <debian@pusling.com>  Thu, 28 Sep 2006 15:46:15 +0200
+
+kwin-style-crystal (1.0.0-1) unstable; urgency=low
+
+  * Initial release Closes: #364360
+
+ -- Sune Vuorela <debian@pusling.com>  Wed,  5 Apr 2006 21:07:23 +0000

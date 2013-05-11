@@ -1,0 +1,21 @@
+Source: kwin-style-crystal
+Section: kde
+Priority: optional
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploaders: Hai Zaar <haizaar@haizaar.com>, Pino Toscano <pino@kde.org>
+Build-Depends: debhelper (>= 7.3.16), pkg-kde-tools (>= 0.5), cmake,
+ kdelibs5-dev (>= 4:4.2.2), kdebase-workspace-dev (>= 4:4.2.2), libx11-dev
+Standards-Version: 3.9.1
+Homepage: http://kde-look.org/content/show.php/Crystal?content=75140
+DM-Upload-Allowed: yes
+
+Package: kwin-style-crystal
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: semi transparent window decoration for KDE
+ Crystal is a pretty simple and clean theme, which also provides pseudo
+ transparent title bar, buttons and borders, and round corners as well.
+ Transparency and buttons can be customized to match your wishes.
+ .
+ And it is of course nice to look at. Upstream says:
+ "- Don't forget to breathe, while drooling."
