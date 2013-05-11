@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Hai Zaar <haizaar@haizaar.com>, Pino Toscano <pino@kde.org>
 Build-Depends: debhelper (>= 7.3.16), pkg-kde-tools (>= 0.5), cmake,
- kdelibs5-dev (>= 4:4.2.2), kdebase-workspace-dev (>= 4:4.2.2), libx11-dev
+ kdelibs5-dev (>= 4:4.9), kde-workspace-dev (>= 4:4.9), libx11-dev
 Standards-Version: 3.9.1
 Homepage: http://kde-look.org/content/show.php/Crystal?content=75140
 DM-Upload-Allowed: yes

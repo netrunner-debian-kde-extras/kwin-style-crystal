@@ -2,6 +2,7 @@ kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
 
   * Team upload.
   * New upstream version. (Closes: #684958)
+  * Bump build-depends to require at least KDE 4.9.
 
  -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
 
