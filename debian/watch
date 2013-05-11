@@ -1,0 +1,2 @@
+version=3
+http://qa.debian.org/cgi-bin/fakeupstream.cgi?upstream=kdelook/75140 .*=(?:\d+-)?crystal-(\d.*)\.(?:tgz|tbz2|txz|tar\.(?:gz|bz2|xz))

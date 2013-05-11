@@ -7,6 +7,7 @@ kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
   * Append -Wl,--as-needed to LDFLAGS.
   * Enable parallel building.
   * Remove Hai Zaar from the uploaders list. (Closes: #673657)
+  * Add watch file, thanks to Bart Martens.
 
  -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
 
