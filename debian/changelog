@@ -1,3 +1,10 @@
+kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
+
+  * Team upload.
+  * New upstream version. (Closes: #684958)
+
+ -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
+
 kwin-style-crystal (2.0.5-2) unstable; urgency=low
 
   * Switch to source format "3.0 (quilt)".
