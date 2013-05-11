@@ -5,6 +5,7 @@ kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
   * Bump build-depends to require at least KDE 4.9.
   * Bump debhelper compat level to v9 which exports build flags.
   * Append -Wl,--as-needed to LDFLAGS.
+  * Enable parallel building.
 
  -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
 
