@@ -1,4 +1,4 @@
-kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
+kwin-style-crystal (2.2.1-1) experimental; urgency=low
 
   * Team upload.
   * New upstream version. (Closes: #684958)
@@ -14,7 +14,7 @@ kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
   * Add Vcs control fields.
   * Update copyright file to format 1.0 and adapt to the new upstream version.
 
- -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
+ -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 13:53:40 +0200
 
 kwin-style-crystal (2.0.5-2) unstable; urgency=low
 
