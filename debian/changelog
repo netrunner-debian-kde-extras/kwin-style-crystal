@@ -9,6 +9,7 @@ kwin-style-crystal (2.2.1-1) UNRELEASED; urgency=low
   * Remove Hai Zaar from the uploaders list. (Closes: #673657)
   * Add watch file, thanks to Bart Martens.
   * Update debian/docs for new readme filename.
+  * Drop obsolete DM-Upload-Allowed control field.
 
  -- Felix Geyer <fgeyer@debian.org>  Sat, 11 May 2013 11:29:00 +0200
 

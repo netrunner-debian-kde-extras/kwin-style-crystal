@@ -7,7 +7,6 @@ Build-Depends: debhelper (>= 9), pkg-kde-tools (>= 0.5), cmake,
  kdelibs5-dev (>= 4:4.9), kde-workspace-dev (>= 4:4.9), libx11-dev
 Standards-Version: 3.9.1
 Homepage: http://kde-look.org/content/show.php/Crystal?content=75140
-DM-Upload-Allowed: yes
 
 Package: kwin-style-crystal
 Architecture: any
