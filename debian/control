@@ -5,7 +5,7 @@ Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Pino Toscano <pino@kde.org>
 Build-Depends: debhelper (>= 9), pkg-kde-tools (>= 0.5), cmake,
  kdelibs5-dev (>= 4:4.9), kde-workspace-dev (>= 4:4.9), libx11-dev
-Standards-Version: 3.9.1
+Standards-Version: 3.9.4
 Homepage: http://kde-look.org/content/show.php/Crystal?content=75140
 
 Package: kwin-style-crystal
