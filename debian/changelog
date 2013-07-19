@@ -1,5 +1,7 @@
 kwin-style-crystal (2.2.1-2) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Change my email address to @debian.org.
 
  -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Fri, 19 Jul 2013 09:36:02 +0200
 

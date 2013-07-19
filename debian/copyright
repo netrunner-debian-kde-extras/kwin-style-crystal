@@ -19,7 +19,7 @@ License: GPL-2+
 Files: debian/*
 Copyright: 2006, Sune Vuorela <debian@pusling.com>
            2008, Hai Zaar <haizaar@haizaar.com>
-           2009-2011, Pino Toscano <pino@kde.org>
+           2009-2011, Pino Toscano <pino@debian.org>
 License: GPL-2+
  On Debian systems the full text of the GNU General Public License can be found
  in the `/usr/share/common-licenses/GPL-2' file.
